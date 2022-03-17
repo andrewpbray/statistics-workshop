@@ -1,0 +1,13 @@
+---
+title: "About"
+#image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/andrewpbray/statistics-workshop
+
+---
+
+A blog about statistics and data science.
